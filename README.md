@@ -2,15 +2,9 @@
 
 A new Flutter application.
 
-## Getting Started
+UI screen 
 
-This project is a starting point for a Flutter application.
+![WhatsApp_Image_2021-04-15_at_10 39 54_PM_(1) jpeg](https://user-images.githubusercontent.com/72247207/126059429-d47b6714-0fc3-44c5-a4c4-8d28da4d45b4.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![WhatsApp_Image_2021-04-15_at_10 39 54_PM jpeg](https://user-images.githubusercontent.com/72247207/126059432-cf033189-0088-4a3c-a6d0-acc0191cf21c.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
